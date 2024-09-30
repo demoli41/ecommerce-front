@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Deployed project
 
-[Ecommerce-front](https://ecommerce-front-jz80rcg3f-bohdans-projects-71e79ba1.vercel.app/)
+[Ecommerce-front](https://ecommerce-front-three-pink.vercel.app/)
 
 ## Getting Started
 
